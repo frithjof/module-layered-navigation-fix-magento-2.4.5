@@ -1,5 +1,5 @@
 {
-  "name": "Plumrocket\\ProductFilterFixMagento245",
+  "name": "plumrocket/productfilterfixmagento245",
   "description": "Wrapper for Magento2 ImportExport functionality",
   "type": "magento2-module",
   "autoload": {
